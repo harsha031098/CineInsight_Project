@@ -1,0 +1,22 @@
+This project is based on three datasets related to movied, IMDb, Movielens and TMDb
+
+Link to all these datasets: 
+
+1. Movie Lens 25M Dataset
+Size: 1.16 GB
+Link: https://grouplens.org/datasets/movielens/
+
+2. IMDB Non Commercial Dataset
+Size: 1.27 GB
+Link: https://datasets.imdbws.com/
+
+3. TMDB 5000 Movie Dataset-to be extracted using API
+Size: 45 MB
+Link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_credits.csv
+
+Aim of this project is to 
+
+1. Clean the three datasets using Mapreduce
+2. Profiling of the three datasets using Mapreduce
+3. Merging all three datasets into one dataset
+4. Using Hive, run queries, analyze and vizualize the results
